@@ -27,8 +27,9 @@ class HomePage(SeleniumDriver):
     
     def __init__(self,driver):
         super().__init__(driver)
+        print("Call Constructor")
         print("Cons Called again By Mukesh")
-        print("Cons Called")
+        main
         self.driver=driver
 
     def get_welcome_text_new(self):
