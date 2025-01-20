@@ -19,6 +19,7 @@ class HomePage(SeleniumDriver):
     
     def __init__(self,driver):
         super().__init__(driver)
+        print("Call Constructor")
         print("Cons Called")
         self.driver=driver
 
