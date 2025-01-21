@@ -1,7 +1,6 @@
 import configparser
 import os
 
-
 class ConfigReader():
     def __init__(self,config_path="config/config.ini"):
         #print(f"Using config file at: {config_path}")
