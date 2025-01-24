@@ -504,3 +504,14 @@
 2025-01-24 16:30:18,161 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
 2025-01-24 16:30:18,166 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
 2025-01-24 16:30:18,421 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-24 16:46:48,341 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-24 16:46:48,443 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-24 16:46:48,448 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-24 16:46:48,471 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-24 16:46:48,477 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-24 16:46:48,507 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-24 16:46:50,930 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-24 16:46:50,950 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-24 16:46:50,974 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-24 16:46:50,979 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-24 16:46:51,249 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
