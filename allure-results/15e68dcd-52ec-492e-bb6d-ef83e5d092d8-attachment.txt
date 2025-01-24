@@ -1,0 +1,11 @@
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:67 Element Found Using id with value email1
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:89 Typed admin@email.comon element With locator email1
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:67 Element Found Using id with value password1
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:89 Typed admin@123on element With locator password1
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:67 Element Found Using class with value submit-btn
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:78 Clicked on element with locator value submit-btn
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:67 Element Found Using class with value welcomeMessage
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:67 Element Found Using xpath with value //img[@alt='menu']
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:78 Clicked on element with locator value //img[@alt='menu']
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:67 Element Found Using xpath with value //button[normalize-space()='Sign out']
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:78 Clicked on element with locator value //button[normalize-space()='Sign out']
