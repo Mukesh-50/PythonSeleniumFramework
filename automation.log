@@ -482,3 +482,25 @@
 2025-01-17 19:55:11,106 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
 2025-01-17 19:55:23,152 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage
 2025-01-17 19:55:23,152 - SeleniumDriver - WARNING - Element with locator 'welcomeMessage' not found
+2025-01-24 16:28:29,420 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-24 16:28:29,525 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-24 16:28:29,530 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-24 16:28:29,549 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-24 16:28:29,553 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-24 16:28:29,584 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-24 16:28:31,954 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-24 16:28:31,975 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-24 16:28:31,998 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-24 16:28:32,003 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-24 16:28:32,272 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-24 16:30:15,523 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-24 16:30:15,627 - SeleniumDriver - INFO - Typed admin@email.comon element With locator email1
+2025-01-24 16:30:15,632 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-24 16:30:15,652 - SeleniumDriver - INFO - Typed admin@123on element With locator password1
+2025-01-24 16:30:15,656 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-24 16:30:15,685 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-24 16:30:18,118 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-24 16:30:18,138 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-24 16:30:18,161 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-24 16:30:18,166 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-24 16:30:18,421 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
