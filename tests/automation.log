@@ -1,0 +1,54 @@
+2025-01-18 15:07:33,764 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using id with value email1
+2025-01-18 15:07:33,941 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Typedadmin@email.comon element with locator email1
+2025-01-18 15:07:33,950 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using id with value password1
+2025-01-18 15:07:34,001 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Typedadmin@123on element with locator password1
+2025-01-18 15:07:34,011 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using class with value submit-btn
+2025-01-18 15:07:34,069 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Clicked on element with locator value submit-btn
+2025-01-18 15:07:36,800 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using class with value welcomeMessage
+2025-01-18 15:07:36,824 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-18 15:07:36,858 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-18 15:07:36,866 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-18 15:07:37,100 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-18 15:07:37,411 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using id with value email1
+2025-01-18 15:07:37,469 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Typedmukesh@email.comon element with locator email1
+2025-01-18 15:07:37,476 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using id with value password1
+2025-01-18 15:07:37,518 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Typedadmin@123on element with locator password1
+2025-01-18 15:07:37,524 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using class with value submit-btn
+2025-01-18 15:07:37,574 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Clicked on element with locator value submit-btn
+2025-01-18 15:07:47,644 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-18 15:09:33,027 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using id with value email1
+2025-01-18 15:09:33,231 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Typedadmin@email.comon element with locator email1
+2025-01-18 15:09:33,244 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using id with value password1
+2025-01-18 15:09:33,294 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Typedadmin@123on element with locator password1
+2025-01-18 15:09:33,302 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using class with value submit-btn
+2025-01-18 15:09:33,351 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Clicked on element with locator value submit-btn
+2025-01-18 15:09:36,571 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using class with value welcomeMessage
+2025-01-18 15:09:36,590 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-18 15:09:36,627 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-18 15:09:36,635 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-18 15:09:36,927 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-18 15:09:37,239 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using id with value email1
+2025-01-18 15:09:37,301 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Typedmukesh@email.comon element with locator email1
+2025-01-18 15:09:37,307 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using id with value password1
+2025-01-18 15:09:37,351 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Typedadmin@123on element with locator password1
+2025-01-18 15:09:37,356 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Element Found Using class with value submit-btn
+2025-01-18 15:09:37,390 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - INFO - Clicked on element with locator value submit-btn
+2025-01-18 15:09:47,445 - /Users/kris/Desktop/python_projects/Framework/utilities/custom_logger.py - WARNING - Element Not Found Using class with value welcomeMessage
+2025-01-18 15:15:05,122 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-18 15:15:05,369 - SeleniumDriver - INFO - Typedadmin@email.comon element with locator email1
+2025-01-18 15:15:05,381 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-18 15:15:05,427 - SeleniumDriver - INFO - Typedadmin@123on element with locator password1
+2025-01-18 15:15:05,436 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-18 15:15:05,478 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-18 15:15:08,165 - SeleniumDriver - INFO - Element Found Using class with value welcomeMessage
+2025-01-18 15:15:08,188 - SeleniumDriver - INFO - Element Found Using xpath with value //img[@alt='menu']
+2025-01-18 15:15:08,222 - SeleniumDriver - INFO - Clicked on element with locator value //img[@alt='menu']
+2025-01-18 15:15:08,230 - SeleniumDriver - INFO - Element Found Using xpath with value //button[normalize-space()='Sign out']
+2025-01-18 15:15:08,466 - SeleniumDriver - INFO - Clicked on element with locator value //button[normalize-space()='Sign out']
+2025-01-18 15:15:08,729 - SeleniumDriver - INFO - Element Found Using id with value email1
+2025-01-18 15:15:08,786 - SeleniumDriver - INFO - Typedmukesh@email.comon element with locator email1
+2025-01-18 15:15:08,791 - SeleniumDriver - INFO - Element Found Using id with value password1
+2025-01-18 15:15:08,832 - SeleniumDriver - INFO - Typedadmin@123on element with locator password1
+2025-01-18 15:15:08,837 - SeleniumDriver - INFO - Element Found Using class with value submit-btn
+2025-01-18 15:15:08,888 - SeleniumDriver - INFO - Clicked on element with locator value submit-btn
+2025-01-18 15:15:18,915 - SeleniumDriver - WARNING - Element Not Found Using class with value welcomeMessage

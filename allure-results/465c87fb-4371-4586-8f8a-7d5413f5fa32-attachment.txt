@@ -1,0 +1,1 @@
+<ExceptionInfo AttributeError("'NoneType' object has no attribute 'text'") tblen=29>

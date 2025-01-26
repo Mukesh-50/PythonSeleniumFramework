@@ -1,0 +1,8 @@
+Application is up and running
+Element Found
+Typed data on element
+Element Found
+Typed data on element
+Element Found
+Clicked on element
+Closing the browser

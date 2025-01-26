@@ -1,0 +1,5 @@
+2025-01-17 11:50:07,117 - DEBUG - Debug Python Test
+2025-01-17 11:50:07,118 - INFO - Info Python Test
+2025-01-17 11:50:07,118 - WARNING - Warning Python Test
+2025-01-17 11:50:07,118 - ERROR - Error Python Test
+2025-01-17 11:50:07,118 - CRITICAL - Critical Python test
